@@ -9,7 +9,7 @@ int copyLength = 0;
 int resultLength = 0;
 int whereline = 1;
 int checkMidium = 0;
-static int howSize = 100;
+static int howSize = 100000;
 ////////////////////////
 
 
