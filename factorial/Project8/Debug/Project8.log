@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\workspace\forc++\project8\project8\source.cpp(195): warning C4101: 'i': unreferenced local variable
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Project8.vcxproj -> D:\Workspace\forC++\Project8\Debug\Project8.exe
+  Project8.vcxproj -> D:\Workspace\forC++\Project8\Debug\Project8.pdb (Partial PDB)
